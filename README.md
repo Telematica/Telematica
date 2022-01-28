@@ -1,4 +1,4 @@
-# Alison's Github Profile 👋
+# Hector's (@Telematica) Github Profile 👋
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=AlisonYao)
@@ -15,14 +15,11 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yuhanyao/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alisonyao" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/telematica/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="telematica" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/alisonyao" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alisonyao" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@alisonyuhanyao" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alisonyuhanyao" height="30" width="40" />
+  <a href="https://medium.com/@telematica" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@telematica" height="30" width="40" />
   </a>
 </p>
 </p>
@@ -118,9 +115,9 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 
 ### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisonYao&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Telematica&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonYao&theme=onedark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telematica&theme=onedark&layout=compact)
 
 
 <!--
