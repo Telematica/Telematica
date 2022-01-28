@@ -1,17 +1,15 @@
 # Hector's (@Telematica) Github Profile 👋
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-![](https://komarev.com/ghpvc/?username=AlisonYao)
+![](https://komarev.com/ghpvc/?username=Telematica)
 
-Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an aspiring Data Scientist. My home is in Shanghai, China. I am currently living in Abu Dhabi, UAE. I speak Mandarin 🇨🇳 and English 🇺🇸. 
+Hi there! This is Hector Ceron Figueroa. I am a: Developer 🏴‍☠️; Gamer; Internet-Researcher; Data&Financial scientist wannabe; Cryptocurrencies Enthusiast; . I'm from 🇲🇽, and speak Spanish 🇪🇸, English 🇺🇸 and a bit of German 🇩🇪.
 
-- 🌱 I’m currently studying Data Science at NYU Shanghai
-- 📫 How to reach me: alisonyao821(@)gmail.com
-- 👯 I’m looking to collaborate on Kaggle competitions
-- :black_nib: I blog on [medium](https://medium.com/@AlisonYuhanYao) from time to time
-- 💬 Ask me about guitar, badminton, traveling, Netflix or Marvel
-- ⚡ Fun fact: I'm a cat person who wants a golden retriever
-- 😄 Pronouns: She/Her/Hers
+- ̗̀Cogito ergo sum ̖́
+
+- 💬 Ask me about guitar, traveling, Netflix
+- ⚡ Fun fact: ?
+- 😄 Pronouns: He/Him/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -99,17 +97,6 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
  
  </p>
 
-### Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Bechdel Test: Comparing Female Representation Metrics in Movies](https://towardsdatascience.com/bechdel-test-comparing-female-representation-metrics-in-movies-6cbade15010f?source=rss-17016fd04e22------2)
-- [The Time I Coded a Biased Algorithm](https://towardsdatascience.com/the-time-i-coded-a-biased-algorithm-4ae4fba62bf6?source=rss-17016fd04e22------2)
-- [5 ways to Increase Statistical Power](https://towardsdatascience.com/5-ways-to-increase-statistical-power-377c00dd0214?source=rss-17016fd04e22------2)
-- [The intuition behind the Central Limit Theorem](https://pub.towardsai.net/intuition-behind-central-limit-theorem-1d4a4bfeda8c?source=rss-17016fd04e22------2)
-- [Genetic Algorithm &amp; Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 3](https://medium.com/nerd-for-tech/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-3-7f961d46a3cb?source=rss-17016fd04e22------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@AlisonYuhanYao)
 
 ---
 
@@ -119,6 +106,7 @@ Hi there! This is Alison Yuhan Yao. I am a Data Science undergrad student and an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telematica&theme=onedark&layout=compact)
 
+<!-- Inspired by: https://github.com/AlisonYao/AlisonYao -->
 
 <!--
 https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
