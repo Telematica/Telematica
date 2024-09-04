@@ -42,6 +42,9 @@ Hi there! This is Hector Ceron Figueroa. I am a: Developer 🏴‍☠️; Gamer;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telematica&theme=onedark&layout=compact)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=telematica&" alt="Hector Ceron" /></p>
+
+
 <!-- Inspired by: https://github.com/AlisonYao/AlisonYao -->
 
 <!--
