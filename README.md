@@ -3,7 +3,19 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=Telematica)
 
-Hi there! This is Hector Ceron Figueroa. I am a: Developer 🏴‍☠️; Gamer; Internet-Researcher; Data&Financial scientist wannabe; Cryptocurrencies Enthusiast; . I'm from 🇲🇽, and speak Spanish 🇪🇸, English 🇺🇸 and a bit of German 🇩🇪.
+Hi there! This is Hector Ceron Figueroa. I am a: 
+
+🏴‍☠️ Developer,
+
+🕹️ Gamer,
+
+🔎 Internet-Researcher,
+
+📊 Data&Financial scientist wannabe,
+
+₿ Cryptocurrencies Enthusiast.
+
+I'm from 🇲🇽, and speak Spanish 🇪🇸, English 🇺🇸 and a bit of German 🇩🇪.
 
 - ̗̀Cogito ergo sum ̖́
 
